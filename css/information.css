@@ -50,19 +50,6 @@ body {
 /*BARRE DE NAVIGATION*/
 
 
-/*CORPS DE PAGE ET FOND D'ECRAN*/
-body {
-  margin: 0;
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
-   background-image: url('../images/backgrounds/background.gif');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
-  background-attachment: fixed;
-}
-/*CORPS DE PAGE ET FOND D'ECRAN*/
-
-
 /*DESCRIPTION DU SITE*/
 .description {
 	background-color: white;
