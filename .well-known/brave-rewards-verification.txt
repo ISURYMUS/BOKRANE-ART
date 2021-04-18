@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: bokraneart.ml
+Token: 9cdd0cd6379a0b6130f7cad971e5b8b6b96e6f32a42d4d84730b0c93d3f4987e
